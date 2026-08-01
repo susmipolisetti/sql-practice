@@ -1,0 +1,4 @@
+-- Drop Index
+
+DROP INDEX idx_student_name
+ON Students;
